@@ -15,6 +15,11 @@ It demonstrates data cleaning, exploratory analysis, KPI creation, and visualiza
 
 ---
 
+## 📂 Dataset
+The full Excel dataset is hosted externally due to size limits.  
+
+👉 [Download Road Accident Data (Excel file)](Road Accident Data.xlsx)
+
 ## 🛠 Steps Performed
 1. **Data Cleaning**
    - Fixed typos (e.g., `fetal` → `fatal`).
