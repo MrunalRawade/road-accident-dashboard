@@ -5,6 +5,8 @@ It demonstrates data cleaning, exploratory analysis, KPI creation, and visualiza
 
 ---
 
+![Road Accident Dashboard](Dashboard.png)
+
 ## 📂 Project Structure
 - `Road Accident Data.xlsx`
 - `Original Dataset Sheet` (inside Excel file) — raw data used for the dashboard.
