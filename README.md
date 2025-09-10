@@ -6,6 +6,8 @@ It demonstrates data cleaning, exploratory analysis, KPI creation, and visualiza
 
 ---
 
+### Dashboard Preview
+
 ![Road Accident Dashboard](Dashboard.png)
 
 ---
