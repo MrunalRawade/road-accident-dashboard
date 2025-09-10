@@ -6,10 +6,10 @@ It demonstrates data cleaning, exploratory analysis, KPI creation, and visualiza
 ---
 
 ## 📂 Project Structure
-- `Road Accident Data.xlsx` — original dataset (raw data used for the dashboard).
-- `Transcript.docx` — transcript of the YouTube tutorial followed for this project.
+- `Road Accident Data.xlsx`
+- `Original dataset` (inside Excel file) — raw data used for the dashboard.
+- `Data Analysis Sheet` (inside Excel file) — contains formulas, pivot tables, and notes for reproducibility.
 - `Dashboard` (inside Excel file) — interactive charts, KPIs, slicers, and timeline.
-- `Analysis Sheet` (inside Excel file) — contains formulas, pivot tables, and notes for reproducibility.
 
 ---
 
