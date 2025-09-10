@@ -1,5 +1,5 @@
 # Road Accident Dashboard
-Initial project: Road Accident Dashboard with dataset and visuals
+Road Accident Dashboard with dataset and visuals
 
 This project is an **Excel-based interactive dashboard** analyzing road accident data.  
 It demonstrates data cleaning, exploratory analysis, KPI creation, and visualization techniques to facilitate a better understanding of accident patterns.
